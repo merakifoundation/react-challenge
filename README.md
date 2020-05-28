@@ -1,2 +1,43 @@
-# react-challenge
-React Programming Task!
+# React UI Task
+
+### Prerequisites
+
+- Good hold on `HTML`, `CSS` and `JavaScript`.
+- Some curiosity and wonder! :)
+
+## Task
+
+This task is divided into two parts. The first part involves learning the basics of how [React](https://reactjs.org) works. The second part will be about using what we learn in part 1 to build a toy app!
+
+### Part 1: React Basics (optional)
+
+In Part 1, you will spend time with the [Intro to React](https://reactjs.org/tutorial/tutorial.html) tutorial on the official React website. It will take you through the basics of React while building tic-tac-toe!
+
+_Note: while going through the tutorial, in the "Setup" section, choose [Option 2](https://reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)!_
+
+### Part 2: UI Task
+
+Part 2 is all about using what we learned in Part 1 and creating something from scratch! Here the steps you'll need to follow:
+
+1. Fork this repository (if you don't know how to do that, Google is your friend!)
+2. Clone your fork to your local machine and create a new React project using the steps you learned in Part 1.
+3. Your toy app will be a simple todo application. It should have the following features:
+    - Ability to view created todos
+    - Ability to add a todo item
+    - Ability to mark a todo as done
+    - Ability to mark done todos as not done
+4. Make meaningful commits along the way while you build your app and push them to your repo when done.
+5. Send us a pull request (on this repo), we will review your code and get back to you!
+
+Note that:
+
+- This todo app does not need to have any of database for saving todos. For the task, it is totally fine to let the app reset on a page refresh.
+- Your app will primarily be judged on it's functionality and the code you write.
+
+### Part 2: Bonus!
+
+If you are feeling extra adventurous and want to take your todo app to the next level, here are a few bonus features you could consider adding:
+
+1. Ability to delete todos
+2. A todo app that is truly yours ie. whip up some custom `CSS`!
+3. Deploy your app on [Netlify](https://www.netlify.com) for us (and the world) to use!
