@@ -19,15 +19,14 @@ _Note: while going through the tutorial, in the "Setup" section, choose [Option 
 
 Part 2 is all about using what we learned in Part 1 and creating something from scratch! Here the steps you'll need to follow:
 
-1. Fork this repository (if you don't know how to do that, Google is your friend!)
-2. Clone your fork to your local machine and create a new React project using the steps you learned in Part 1.
-3. Your toy app will be a simple todo application. It should have the following features:
+1. Start a new React project on your local machine using the steps you learned in Part 1.
+2. Your toy app will be a simple todo application. It should have the following features:
     - Ability to view created todos
     - Ability to add a todo item
     - Ability to mark a todo as done
     - Ability to mark done todos as not done
-4. Make meaningful commits along the way while you build your app and push them to your repo when done.
-5. Send us a pull request (on this repo), we will review your code and get back to you!
+3. Make and push meaningful commits along the way while you build your app.
+4. Send us a link to a GitHub repo with your finished project, we will review your code and get back to you!
 
 Note that:
 
