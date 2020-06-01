@@ -1,6 +1,6 @@
 # React UI Task
 
-### Prerequisites
+### Pre-requisites
 
 - Good hold on `HTML`, `CSS` and `JavaScript`.
 - Some curiosity and wonder! :)
