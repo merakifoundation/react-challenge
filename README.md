@@ -25,8 +25,7 @@ Part 2 is all about using what we learned in Part 1 and creating something from 
     - Ability to view created todos
     - Ability to mark a todo as done
     - Ability to mark done todos as not done
-3. Make sure you write and push meaningful commits along the way to your project repo while you build the app.
-4. Send us a link to the project repo with your finished project, we will review your code and get back to you!
+3. Send us a link to the project repo with your finished project, we will review your code and get back to you!
 
 Note that:
 
